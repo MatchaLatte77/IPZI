@@ -1,0 +1,34 @@
+table{
+    border-collapse:collapse;
+    font:normal normal 12px Verdana,Arial,Sans-Serif;
+    color:#333333;
+}
+table th {
+    background:#2f664d;
+    color:#f9fcfb;
+    font-weight:bold;
+    font-size:14px;
+}
+table th,
+table td {
+    vertical-align:top;
+    padding:5px 10px;
+    border:1px solid #696969;
+}
+table tr {
+    background:#d7f5e6;
+}
+table tr:nth-child(even) {
+    background:#dbeeeb;
+}
+
+h1,h2{ font-family: Georgia, serif; font-style: italic; color: #004060;}
+
+fieldset{
+    width: 250px; 
+    border-color: blueviolet;
+    box-shadow: 2px 2px 4px #333; 
+}
+
+
+
